@@ -16,9 +16,7 @@ Travel Planner is a user-friendly website designed to help users plan their trip
 
 ## Technologies Used
 
-- Frontend: [Specify technologies, e.g., HTML, CSS, JavaScript, React]  
-- Backend: [Specify technologies, e.g., Node.js, Python, Ruby]  
-- Database: [Specify database, e.g., MongoDB, PostgreSQL]  
+- Frontend: [HTML, CSS, JavaScript, React]
 
 ## Getting Started
 
@@ -38,32 +36,3 @@ Travel Planner is a user-friendly website designed to help users plan their trip
     ```bash
     npm start
     ```  
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:  
-
-1. Fork the repository.  
-2. Create a new branch:  
-    ```bash
-    git checkout -b feature-name
-    ```  
-3. Commit your changes:  
-    ```bash
-    git commit -m "Add feature description"
-    ```  
-4. Push to the branch:  
-    ```bash
-    git push origin feature-name
-    ```  
-5. Open a pull request.  
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).  
-
-## Contact
-
-For any questions or feedback, feel free to reach out at [your-email@example.com].  
-
-Happy Traveling! 🌍  
