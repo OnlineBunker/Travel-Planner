@@ -1,9 +1,10 @@
 import React from "react";
+import NavBar from "./assets/navbar/navbar.jsx";
 
 function App() {
   return (
     <div>
-      <h1>Welcome to your clean React + Vite ap</h1>
+      <NavBar/>
     </div>
   );
 }
