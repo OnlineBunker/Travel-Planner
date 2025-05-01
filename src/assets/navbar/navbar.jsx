@@ -4,7 +4,7 @@ import './navbar.css';
 export default function Navbar() {
     return (
         <nav className="navbar">
-            <div className="brand">MyBrand</div>
+            <div className="brand">Travel Planner</div>
             <ul className="nav-links">
                 <li><a href="#">Home</a></li>
                 <li><a href="#">About</a></li>

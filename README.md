@@ -16,7 +16,7 @@ Travel Planner is a user-friendly website designed to help users plan their trip
 
 ## Technologies Used
 
-- Frontend: [HTML, CSS, JavaScript, React]
+- Frontend: [HTML, CSS, JavaScript, React]    
 
 ## Getting Started
 
