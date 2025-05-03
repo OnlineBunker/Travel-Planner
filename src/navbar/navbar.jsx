@@ -5,6 +5,7 @@ const Navbar = () => {
     return (
       <nav className="navbar">
         <div className="navbar-left">
+          <img src="./././Image/websitelogo.png" alt="Logo" className="logo-icon" />
           <span className="logo-text">Travel Planner</span>
         </div>
   
@@ -16,7 +17,6 @@ const Navbar = () => {
         </div>
   
         <div className="navbar-right">
-          <span className="currency">USD</span>
           <button className="signin-btn">Sign in</button>
         </div>
       </nav>
