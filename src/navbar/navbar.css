@@ -1,0 +1,70 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 32px;
+  background-color: white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+}
+
+.navbar-left {
+  display: flex;
+  align-items: center;
+}
+
+.logo-icon {
+  height: 36px;
+  width: 36px;
+  border-radius: 50%;
+  background-color: #00aa6c; /* Tripadvisor green */
+  padding: 6px;
+  object-fit: contain;
+}
+
+.logo-text {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 8px;
+}
+
+.navbar-center a {
+  margin: 0 12px;
+  font-weight: 600;
+  text-decoration: none;
+  color: black;
+}
+
+.navbar-center a:hover {
+  text-decoration: underline;
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+}
+
+.globe-icon {
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+}
+
+.currency {
+  margin-right: 16px;
+  font-weight: 500;
+}
+
+.signin-btn {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  font-weight: 600;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.signin-btn:hover {
+  background-color: #333;
+}
