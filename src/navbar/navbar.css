@@ -44,17 +44,6 @@
   align-items: center;
 }
 
-.globe-icon {
-  width: 18px;
-  height: 18px;
-  margin-right: 8px;
-}
-
-.currency {
-  margin-right: 16px;
-  font-weight: 500;
-}
-
 .signin-btn {
   background-color: black;
   color: white;
