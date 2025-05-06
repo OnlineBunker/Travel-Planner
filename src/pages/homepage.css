@@ -10,6 +10,10 @@
     margin-top: 20px;
     color: #030303;
 }
+.description{
+    width: 60%;
+    text-align: center;
+}
 .dest-input-div{
     border-radius: 7px;
     border: #333 solid 2px;
