@@ -40,7 +40,7 @@ const Navbar = () => {
       </div>
       
       <div className="navbar-actions">
-        <Link to="#" className="nav-link contact-link">CONTACT US</Link>
+        <Link to="#" className="nav-link contact-link">+91 9876543210</Link>
       </div>
     </nav>
   );
