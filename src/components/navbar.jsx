@@ -23,7 +23,7 @@ const Navbar = () => {
           onMouseEnter={() => setDropdownOpen(true)}
           onMouseLeave={() => setDropdownOpen(false)}
         >
-          <span className="nav-link">DESTINATIONS</span>
+          <Link className='nav-link' to="/destinations"> <span className="nav-link">DESTINATIONS  </span></Link>
           {dropdownOpen && (
             <div className="dropdown-menu">
               <Link to="/location/mcleodganj-triund" className="dropdown-item">Mcleodganj Triund</Link>

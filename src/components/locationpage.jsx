@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import './LocationPage.css';
+import './locationpage.css';
 import locations from '../api/travelData';
 
 const LocationPage = () => {

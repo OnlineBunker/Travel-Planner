@@ -7,6 +7,7 @@ import Navbar from './components/navbar.jsx';
 import Homepage from './components/homepage.jsx';
 import LocationPage from './components/locationpage.jsx';
 import About from './components/about.jsx';
+import Destinations from './components/destinations.jsx';
 import Footer from './components/footer.jsx';
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
             <Route path="/" element={<Homepage />} />
             <Route path="/about" element={<About />} />
             <Route path="/location/:locationId" element={<LocationPage />} />
+            <Route path="/destinations" element={<Destinations />} />
           </Routes>
           <Footer />
         </>
