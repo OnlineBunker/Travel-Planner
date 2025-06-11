@@ -33,8 +33,8 @@ A beautiful, responsive single-page application for exploring and booking advent
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone [https://github.com/your-username/your-repo.git](https://github.com/OnlineBunker/Travel-Planner.git)
+   cd 'Travel-Planner'
    ```
 
 2. **Install Dependencies**
