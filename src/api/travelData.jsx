@@ -19,7 +19,7 @@ const locations = {
     price: 9287.00,
     discountedPrice: 6499.00,
   },
-  "jibhi-tirthan": {
+  "jibhi-tirthan-valley": {
     id: "jibhi-tirthan-valley",
     title: "Jibhi Tirthan Valley",
     description: "Planning for a weekend getaway from Delhi for yourself that will grant you and your friends a break from the daily hustle and bustle of city life? Then this trip to Tirthan and Jibhi is an ideal choice for you. Tirthan river valley is a paradise that is surrounded by thick forests and is really not that discovered, along with a stunning backdrop for those who enjoy camping. At a height of 10,800 meters sits the beautiful Jibhi Jalori pass, which can be accessed either by road or by foot as you join a trek. You can tour the lovely Serolsar Lake which is located amidst a beautiful backdrop of lush green hills and towering trees. Highlights of the trip Tirthan Valley is one of the most wonderful destinations in the state of Himachal Pradesh. The village traces its name from the Tirthan River, which dawns from the glaciers of the Himalayas. The valley is very popular for its scenic beauty, rich green forest, lakes, hikes, and camping adventures. This Tirthan Valley package from BanBanjara gives you an opportunity to travel it all and will help you enjoy an idiosyncratic and less congested version of Jibhi. If you are traveling by a Volvo you need to get off at the starting point of Aut Tunnel and from there you will be picked up by a private vehicle that will take you to Tirthan Valley. The package also includes a local and knowledgeable guide for the hikes and a vehicle along with a local driver for comfortable travel and a stay at the camps in the Tirthan Valley.",
@@ -29,7 +29,7 @@ const locations = {
     price: 10287.00,
     discountedPrice: 6999.00,
   },
-  "manali-solang": {
+  "manali-solang-valley": {
     id: "manali-solang-valley",
     title: "Manali to Solang Valley",
     description: "Manali is a magnetic town in the Himalayas and is one of the popular destinations for nature lovers, solo travelers, and adventure seekers. This charming hill station is situated on the banks of the River Beas with the magnificent scenery of valleys, streams, rivers, and forests. Located 13 kilometers away from Manali, Solang Valley is a famous tourist destination nestled between the Beas Kund and Solang Village. The valley is famous among local and international tourists for its stunning views of snow-capped mountains. People visit here every year to explore the outstanding beauty of Solang Valley. Experience the town of Manali, which is a blend of adventure and nature. Explore the streets of Solang Valley and shop your heart out at the local market. Indulge yourself in various adventurous activities in Solang Valley, famous for paragliding, rafting, and trekking.",
@@ -39,7 +39,7 @@ const locations = {
     price: 9332.00,
     discountedPrice: 6999.00,
   },
-  "manali-lahaul": {
+  "manali-lahaul-trip": {
     id: "manali-lahaul-trip",
     title: "Manali and Lahaul Trip",
     description: "Manali has an excess of panoramic valleys that are filled with forests of oak, fir, deodar, and pine. It truly is a full package of nature, food, adventure sports, and ancient heritages. The Beas River proudly flows gushing amidst the beautiful valley. A number of beautiful waterfalls like Jogni Falls and Rahala fall flood out of randomly placed rocks. You may also catch a glimpse of slouching meadows, terrace farming, and fruit orchards. All these spectacles add up to make this town of Manali the beautiful place it is. The town of Manali also shares a piece of history, the provide it with ancient heritages that have splendid architecture and striking views. Religious devotees have their own amazing reason to visit this place as they come here to offer their prayers at the temples like Hadimba, Manu, and Shiv temple. While the history buffs go to aged forts like Naggar and Kuthar. These sites have extraordinary architecture set against the backdrop of mountains that definitely makes them worth a visit. Having said plenty about the regions of Manali, it is also a hub for adventure sports. The location makes it possible to enjoy a wide range of adventuresome activities like paragliding, camping, trekking, and river rafting to satisfy the adrenaline hunger of adventure seekers. It also is home to a few rustic villages and backcountries, that are ideal for a hippie experience. Places like Solang Valley and Rohtang Pass are usually frequented by these enthusiasts. The tourists love to visit here to take a plateful meal of thrill, nature, wildlife, and serenity.",
@@ -49,7 +49,7 @@ const locations = {
     price: 10287.00,
     discountedPrice: 6999.00,
   },
-  "chopta-chandrashila": {
+  "chopta-chandrashila-trek": {
     id: "chopta-chandrashila-trek",
     title: "Chopta Chandrashila Trek",
     description: "Chopta is a small hamlet in the Rudraprayag district of Uttarakhand, India. It is often referred to as the 'Mini Switzerland of India' due to its breathtaking landscapes and lush green meadows. The region is surrounded by dense forests of pine, deodar, and rhododendron, making it a paradise for nature lovers and trekkers. The Chandrashila trek is one of the most popular treks in the region, offering stunning panoramic views of the Himalayan peaks, including Nanda Devi, Trishul, and Chaukhamba. The trek takes you through picturesque landscapes, charming villages, and serene meadows, providing an unforgettable experience for adventure enthusiasts.",
@@ -59,7 +59,7 @@ const locations = {
     price: 6587.00,
     discountedPrice: 4899.00,
   },
-  "mcleodganj-kareri": {
+  "mcleodganj-kareri-trek": {
     id: "mcleodganj-kareri-trek",
     title: "Mcleodganj Kareri Trek",
     description: "Kareri Lake is located at the height of 2,950 m in the Kangra district of Himachal Pradesh. It is a freshwater lake located in the Dhauladhar Range amidst mountains and greenery. The Kareri trek is favourite among nature lovers and shutterbugs who want to spend time in nature while taking their best shots. It offers breathtaking views and lush ranges and takes you through pine forests, oak forests and rocky grasslands. Most backpackers visiting Himachal Pradesh visit the Indrahar Pass or Triund circuits. However, a shorter trek to Kareri Lake offers a more luxurious and tranquil experience. It is especially attractive in winter when the lake freezes and has a feeling of calm. For nature lovers, a trip to Kareri Lake is worth it. Kareri Trek is considered as a great weekend getaway for those who want to experience a unique adventure in a short time. You will start your trek to Kareri Lake from Delhi. You'll be driven to Kareri village. As you climb, the flora changes. The trek will take you through oak and pine forests before gradually transforming into grasslands and you will cross a few streams of water along the way. You'll be captivated by the reflections of the Dhauladhar ranges on Kareri Lake once you reach the top.",
@@ -69,7 +69,7 @@ const locations = {
     price: 9331.00,
     discountedPrice: 6999.00,
   },
-  "manali-solang-kasol": {
+  "manali-solang-kasol-tour": {
     id: "manali-solang-kasol-tour",
     title: "Manali, Solang and Kasol Tour",
     description: "If you are looking for a thrilling and scenic tour that encompasses the best of the lush green hills of the Himalayas, then our Manali, Solang, and Kasol Tour Package is just for you! This package will take you on a thrilling ride, with breathtaking views of the snow-capped mountains, incredible flora and fauna, and serene valleys of Manali, Solang, and Kasol. Starting from Manali, with its winding roads and stunning views of the Pir Panjal range, this tour package will take you to various attractions such as the Hadimba Temple, Manu Temple, and the Mall Road before taking you to Solang Valley for a dose of adrenaline rush. Here you can go paragliding and have a fun time. The tour then moves on to Kasol, the hippie hub, where you can explore the Kasol market, the Kheerganga trek, and the Parvati Valley. You will begin your journey in Manali, the “Valley of Gods”. You will get to explore its natural beauty, including the Beas River, the Rohtang Pass, and the Hadimba Temple. You will also get to indulge in exciting activities like paragliding, trekking, and river rafting. Next, you will be heading to Solang Valley. Here you will get to experience a wide range of activities, from skiing and snowboarding to horse riding and cable car rides. You will also get the chance to see the stunning beauty of the valley, with its majestic mountains and sparkling glaciers. Finally, you will be visiting Kasol. This small village offers you an insight into the culture and heritage of the Kullu Valley. You will get to savor the delicious local cuisine and explore the many temples and monasteries.",
